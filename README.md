@@ -4,6 +4,8 @@ The first neural network is developed and trained from scratch, while the second
 
 [Here1](requirements.pdf) there are the requirements of the project and [here2](documentation.pdf) is available the complete documentation 
 
+(Repository for computational intelligence and deep learning's project)
+
 ## Main goals are:
 - Data: preprocessing, augumentation and balancing
 - Implement and train a neural network from scratch
